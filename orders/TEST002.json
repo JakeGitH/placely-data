@@ -1,0 +1,24 @@
+{
+  "orderCode": "TEST002",
+  "customer": "Test customer - bedroom (from server)",
+  "items": [
+    {
+      "id": "bed_double_160",
+      "name": "Double bed 160",
+      "dimensionsCm": { "w": 170, "d": 215, "h": 95 },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [ { "id": "linen", "name": "Linen", "color": "#D8D0C2" } ],
+      "quantity": 1
+    },
+    {
+      "id": "wardrobe_2d",
+      "name": "Wardrobe 2-door",
+      "dimensionsCm": { "w": 100, "d": 60, "h": 200 },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [ { "id": "white", "name": "White", "color": "#EDEDEB" } ],
+      "quantity": 2
+    }
+  ]
+}

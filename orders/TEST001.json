@@ -1,0 +1,33 @@
+{
+  "orderCode": "TEST001",
+  "customer": "Test customer - living room (from server)",
+  "items": [
+    {
+      "id": "sofa_oslo_3s",
+      "name": "Oslo 3-seat sofa",
+      "dimensionsCm": { "w": 210, "d": 92, "h": 85 },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [ { "id": "grey", "name": "Grey", "color": "#8A8F98" }, { "id": "navy", "name": "Navy", "color": "#2E3F63" } ],
+      "quantity": 1
+    },
+    {
+      "id": "armchair_bergen",
+      "name": "Bergen armchair",
+      "dimensionsCm": { "w": 82, "d": 86, "h": 90 },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [ { "id": "green", "name": "Forest green", "color": "#3F6B4F" } ],
+      "quantity": 2
+    },
+    {
+      "id": "coffee_table_round",
+      "name": "Round coffee table",
+      "dimensionsCm": { "w": 80, "d": 80, "h": 42 },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [ { "id": "white", "name": "White", "color": "#E8E6E1" } ],
+      "quantity": 1
+    }
+  ]
+}

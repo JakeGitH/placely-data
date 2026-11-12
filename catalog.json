@@ -1,0 +1,206 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "sofa_oslo_3s",
+      "name": "Oslo 3-seat sofa",
+      "category": "Sofas",
+      "dimensionsCm": {
+        "w": 210,
+        "d": 92,
+        "h": 85
+      },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [
+        {
+          "id": "grey",
+          "name": "Grey",
+          "color": "#8A8F98"
+        },
+        {
+          "id": "navy",
+          "name": "Navy",
+          "color": "#2E3F63"
+        },
+        {
+          "id": "sand",
+          "name": "Sand",
+          "color": "#C9B79C"
+        }
+      ]
+    },
+    {
+      "id": "armchair_bergen",
+      "name": "Bergen armchair",
+      "category": "Chairs",
+      "dimensionsCm": {
+        "w": 82,
+        "d": 86,
+        "h": 90
+      },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [
+        {
+          "id": "green",
+          "name": "Forest green",
+          "color": "#3F6B4F"
+        },
+        {
+          "id": "rust",
+          "name": "Rust",
+          "color": "#A4532E"
+        }
+      ]
+    },
+    {
+      "id": "table_dining_180",
+      "name": "Dining table 180",
+      "category": "Tables",
+      "dimensionsCm": {
+        "w": 180,
+        "d": 90,
+        "h": 75
+      },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [
+        {
+          "id": "oak",
+          "name": "Oak",
+          "color": "#B08A5B"
+        },
+        {
+          "id": "walnut",
+          "name": "Walnut",
+          "color": "#5D4030"
+        }
+      ]
+    },
+    {
+      "id": "coffee_table_round",
+      "name": "Round coffee table",
+      "category": "Tables",
+      "dimensionsCm": {
+        "w": 80,
+        "d": 80,
+        "h": 42
+      },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [
+        {
+          "id": "white",
+          "name": "White",
+          "color": "#E8E6E1"
+        }
+      ]
+    },
+    {
+      "id": "sideboard_long",
+      "name": "Sideboard 200",
+      "category": "Storage",
+      "dimensionsCm": {
+        "w": 200,
+        "d": 45,
+        "h": 80
+      },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [
+        {
+          "id": "oak",
+          "name": "Oak",
+          "color": "#B08A5B"
+        },
+        {
+          "id": "black",
+          "name": "Black",
+          "color": "#24262A"
+        }
+      ]
+    },
+    {
+      "id": "wardrobe_2d",
+      "name": "Wardrobe 2-door",
+      "category": "Storage",
+      "dimensionsCm": {
+        "w": 100,
+        "d": 60,
+        "h": 200
+      },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [
+        {
+          "id": "white",
+          "name": "White",
+          "color": "#EDEDEB"
+        }
+      ]
+    },
+    {
+      "id": "bed_double_160",
+      "name": "Double bed 160",
+      "category": "Beds",
+      "dimensionsCm": {
+        "w": 170,
+        "d": 215,
+        "h": 95
+      },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [
+        {
+          "id": "linen",
+          "name": "Linen",
+          "color": "#D8D0C2"
+        },
+        {
+          "id": "charcoal",
+          "name": "Charcoal",
+          "color": "#3B3D42"
+        }
+      ]
+    },
+    {
+      "id": "bookshelf_tall",
+      "name": "Tall bookshelf",
+      "category": "Storage",
+      "dimensionsCm": {
+        "w": 80,
+        "d": 30,
+        "h": 190
+      },
+      "modelUrl": "",
+      "thumbnailUrl": "",
+      "variants": [
+        {
+          "id": "oak",
+          "name": "Oak",
+          "color": "#B08A5B"
+        }
+      ]
+    },
+    {
+      "id": "test_cube_50",
+      "name": "Test cube 50 cm",
+      "category": "Test",
+      "dimensionsCm": {
+        "w": 50,
+        "d": 50,
+        "h": 50
+      },
+      "modelUrl": "models/test_cube_50.glb",
+      "thumbnailUrl": "thumbs/test_cube_50.png",
+      "variants": [
+        {
+          "id": "orange",
+          "name": "Orange",
+          "color": "#E07A2E"
+        }
+      ]
+    }
+  ]
+}

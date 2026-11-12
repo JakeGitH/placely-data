@@ -1,0 +1,16 @@
+{
+  "orderCode": "CUBE01",
+  "customer": "Remote pipeline test - one cube (from server)",
+  "version": 1,
+  "items": [
+    {
+      "id": "test_cube_50",
+      "name": "Test cube 50 cm",
+      "dimensionsCm": { "w": 50, "d": 50, "h": 50 },
+      "modelUrl": "models/test_cube_50.glb",
+      "thumbnailUrl": "thumbs/test_cube_50.png",
+      "variants": [ { "id": "orange", "name": "Orange", "color": "#E07A2E" } ],
+      "quantity": 1
+    }
+  ]
+}
